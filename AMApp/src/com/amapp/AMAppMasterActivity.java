@@ -13,6 +13,7 @@ import android.view.View;
 import android.view.Window;
 
 import com.amapp.thakorjitoday.TempleListActivity;
+import com.amapp.weeklyquote.WeeklyQuoteActivity;
 import com.android.volley.toolbox.NetworkImageView;
 import com.smart.customviews.SmartTextView;
 import com.smart.framework.Constants;
@@ -160,6 +161,8 @@ public abstract class AMAppMasterActivity extends SmartSuperMaster implements Co
     }
 
     private void invokeQuoteOfTheDayFlow() {
+        Intent intent = new Intent(AMAppMasterActivity.this, WeeklyQuoteActivity.class);
+        ActivityCompat.startActivity(AMAppMasterActivity.this, intent, activityInvocationOptionsBunble);
     }
 
     private void invokeAboutFlow() {

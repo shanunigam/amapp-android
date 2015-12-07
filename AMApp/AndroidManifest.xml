@@ -129,7 +129,12 @@
             android:name=".thakorjitoday.TempleGalleryActivity"
             android:configChanges="orientation"
             >
+        </activity>
 
+        <activity
+            android:name=".weeklyquote.WeeklyQuoteActivity"
+            android:configChanges="orientation"
+            >
         </activity>
 
     </application>
