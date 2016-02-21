@@ -57,9 +57,6 @@ import org.anoopam.main.common.AMConstants;
 import java.io.File;
 import java.util.ArrayList;
 
-/**
- * Created by tasol on 16/7/15.
- */
 
 public class AudioListActivity extends AMAppMasterActivity {
 

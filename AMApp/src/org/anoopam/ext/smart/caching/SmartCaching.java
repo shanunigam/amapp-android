@@ -23,7 +23,7 @@ import java.util.Iterator;
 
 /**
  *
- * @author tasol
+ *
  */
 
 public final class SmartCaching {

@@ -58,9 +58,7 @@ import java.util.Map;
 import java.util.regex.Matcher;
 import java.util.regex.Pattern;
 
-/**
- * Created by tasol on 23/5/15.
- */
+
 
 public class SmartUtils implements Constants{
 

@@ -22,7 +22,7 @@ import java.util.Map;
 /**
  * This Class Contains All Method Related To CustomSliderView.
  * 
- * @author tasol
+ * 
  * 
  */
 public class CustomSliderView extends FrameLayout implements OnTouchListener {

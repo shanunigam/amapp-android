@@ -16,9 +16,7 @@ import java.io.UnsupportedEncodingException;
 import java.util.HashMap;
 import java.util.Map;
 
-/**
- * Created by tasol on 12/10/15.
- */
+
 public class CustomJsonObjectRequest extends JsonObjectRequest {
 
     private Map<String, String> params;

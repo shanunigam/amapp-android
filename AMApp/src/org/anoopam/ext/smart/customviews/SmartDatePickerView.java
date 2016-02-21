@@ -10,7 +10,7 @@ import java.util.Calendar;
 /**
  * This Class Contains All Method Related To IjoomerDataPickerView.
  * 
- * @author tasol
+ *
  * 
  */
 public class SmartDatePickerView extends DatePickerDialog{

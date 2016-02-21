@@ -9,7 +9,7 @@ import android.widget.GridView;
 /**
  * This Class Contains All Method Related To IjoomerButton.
  * 
- * @author tasol
+ *
  * 
  */
 @SuppressLint({ "NewApi", "Override" })

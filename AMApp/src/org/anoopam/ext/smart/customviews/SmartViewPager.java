@@ -8,7 +8,7 @@ import android.view.MotionEvent;
 /**
  * This Class Contains All Method Related To IjoomerViewPager.
  * 
- * @author tasol
+ *
  * 
  */
 public class SmartViewPager extends ViewPager {

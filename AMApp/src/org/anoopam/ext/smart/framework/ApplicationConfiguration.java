@@ -11,7 +11,7 @@ import java.io.File;
 /**
  * This Class Contains All Method Related To ApplicationConfiguration.
  *
- * @author tasol
+ *
  *         NOTE : currently this class not used,future development
  */
 

@@ -8,7 +8,7 @@ import android.widget.HorizontalScrollView;
 /**
  * This Class Contains All Method Related To IjoomerHorizontalScroll.
  * 
- * @author tasol
+ *
  * 
  */
 public class SmartHorizontalScroll extends HorizontalScrollView {

@@ -11,7 +11,7 @@ import org.anoopam.ext.smart.framework.SmartApplication;
 /**
  * This Class Contains All Method Related To IjoomerButton.
  *
- * @author tasol
+ *
  */
 public class SmartButton extends AppCompatButton {
 

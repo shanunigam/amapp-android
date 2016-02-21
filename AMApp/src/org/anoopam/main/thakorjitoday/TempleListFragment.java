@@ -37,9 +37,6 @@ import org.json.JSONException;
 import java.io.File;
 import java.util.ArrayList;
 
-/**
- * Created by tasol on 21/8/15.
- */
 public class TempleListFragment extends SmartFragment {
 
     private SmartRecyclerView mRecyclerView;

@@ -7,7 +7,7 @@ import android.view.View;
 /**
  * This Class Contains All Method Related To IjoomerSpannable.
  * 
- * @author tasol
+ *
  * 
  */
 public class SmartSpannable extends ClickableSpan {

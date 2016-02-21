@@ -1,8 +1,6 @@
 package org.anoopam.ext.smart.framework;
 
-/**
- * Created by tasol on 27/5/15.
- */
+
 public interface Constants {
 
     /*General*/

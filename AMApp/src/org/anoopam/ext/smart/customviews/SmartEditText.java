@@ -10,7 +10,7 @@ import org.anoopam.ext.smart.framework.SmartApplication;
 /**
  * This Class Contains All Method Related To IjoomerEditText.
  *
- * @author tasol
+ *
  */
 public class SmartEditText extends AppCompatEditText{
 

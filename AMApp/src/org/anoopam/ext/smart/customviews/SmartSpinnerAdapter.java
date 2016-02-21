@@ -15,7 +15,7 @@ import java.util.ArrayList;
 /**
  * This Class Contains All Method Related To IjoomerSpinnerAdapter.
  *
- * @author tasol
+ *
  */
 public class SmartSpinnerAdapter extends ArrayAdapter<String> {
 

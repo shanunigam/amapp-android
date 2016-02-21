@@ -36,10 +36,6 @@ import org.anoopam.main.common.events.ThakorjiTodayUpdateSuccessEvent;
 
 import java.util.ArrayList;
 
-/**
- * Created by tasol on 16/7/15.
- */
-
 public class TempleListActivity extends AMAppMasterActivity {
 
     private static final String TAG = "TempleListActivity";

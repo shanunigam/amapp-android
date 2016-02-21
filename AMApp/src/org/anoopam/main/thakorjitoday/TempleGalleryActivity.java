@@ -35,9 +35,6 @@ import org.json.JSONException;
 import java.io.File;
 import java.util.ArrayList;
 
-/**
- * Created by tasol on 23/7/15.
- */
 
 public class TempleGalleryActivity extends AMAppMasterActivity implements Constants {
 

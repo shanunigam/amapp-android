@@ -34,9 +34,7 @@ import org.anoopam.main.sahebjidarshan.SahebjiDarshanActivity;
 import org.anoopam.main.thakorjitoday.TempleListActivity;
 import org.anoopam.ext.smart.framework.Constants;
 
-/**
- * Created by tasol on 23/6/15.
- */
+
 public abstract class AMAppMasterActivity extends SmartActivity implements SharedPreferenceConstants, Constants {
 
     public static String MANAGE_UP_NAVIGATION = "manage_up_navigation";

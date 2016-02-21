@@ -10,7 +10,7 @@ import java.io.IOException;
 /**
  * This Class Contains Method IjoomerAudioPlayer.
  * 
- * @author tasol
+ *
  * 
  */
 public class SmartAudioPlayer {
@@ -119,7 +119,7 @@ public class SmartAudioPlayer {
 	/**
 	 * Inner Interface
 	 * 
-	 * @author tasol
+	 *
 	 * 
 	 */
 	public interface AudioListener {

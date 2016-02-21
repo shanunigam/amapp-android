@@ -32,9 +32,7 @@ import org.anoopam.main.home.HomeListActivity;
 import java.io.File;
 import java.util.ArrayList;
 
-/**
- * Created by tasol on 23/6/15.
- */
+
 
 public class SplashActivity extends AMAppMasterActivity {
 

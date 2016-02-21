@@ -57,10 +57,6 @@ import java.io.File;
 import java.util.ArrayList;
 import java.util.HashMap;
 
-/**
- * Created by tasol on 16/7/15.
- */
-
 public class AudioCatListActivity extends AMAppMasterActivity {
 
     private static final String TAG = "AudioCatListActivity";

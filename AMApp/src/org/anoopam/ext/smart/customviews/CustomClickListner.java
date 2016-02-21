@@ -3,7 +3,7 @@ package org.anoopam.ext.smart.customviews;
 /**
  * This Interface Contains All Method Related To CustomClickListner.
  * 
- * @author tasol
+ *
  * 
  */
 public interface CustomClickListner {

@@ -33,10 +33,6 @@ import org.anoopam.main.common.CircleImageView;
 
 import java.io.IOException;
 
-/**
- * Created by tasol on 16/7/15.
- */
-
 public class AudioPlayerActivity extends AMAppMasterActivity implements MediaPlayer.OnPreparedListener, MediaController.MediaPlayerControl {
 
     public static  final String AUDIO = "audio";

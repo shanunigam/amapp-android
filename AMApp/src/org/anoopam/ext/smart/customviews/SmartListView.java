@@ -9,7 +9,7 @@ import android.widget.ListView;
 /**
  * This Class Contains All Method Related To IjoomerListView.
  * 
- * @author tasol
+ *
  * 
  */
 public class SmartListView extends ListView {

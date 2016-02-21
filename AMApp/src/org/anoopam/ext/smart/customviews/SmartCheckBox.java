@@ -10,7 +10,7 @@ import org.anoopam.ext.smart.framework.SmartApplication;
 /**
  * This Class Contains All Method Related To IjoomerCheckBox.
  *
- * @author tasol
+ *
  *
  */
 public class SmartCheckBox extends AppCompatCheckBox{

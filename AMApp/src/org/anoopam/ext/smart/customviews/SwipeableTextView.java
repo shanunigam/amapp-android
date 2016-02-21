@@ -12,7 +12,7 @@ import org.anoopam.ext.smart.framework.SmartApplication;
 /**
  * This Class Contains All Method Related To IjoomerTextView.
  *
- * @author tasol
+ *
  */
 public class SwipeableTextView extends AppCompatTextView {
 
